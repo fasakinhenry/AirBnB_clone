@@ -254,3 +254,15 @@ print(date_now.strftime("%A %d %B %Y at %H:%M:%S")) # Thursday 08 June 2017 at 2
 ** Data Diagram
 
 ![data diagram]()
+
+## Development Process
+
+This project will also allow me to demonstrate the Software Development Life Cycle(SDLC). The Software Development Life cycle is as follows:
+
+- Planning
+- Analysis (Checking Requirements)
+- Design
+- Implementation stage (Building according to project requirements)
+- Testing
+- Maintenance
+
