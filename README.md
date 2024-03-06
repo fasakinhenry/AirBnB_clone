@@ -263,6 +263,6 @@ This project will also allow me to demonstrate the Software Development Life Cyc
 - Analysis (Checking Requirements)
 - Design
 - Implementation stage (Building according to project requirements)
-- Testing
+- Testing, Deployment and Integrations
 - Maintenance
 
