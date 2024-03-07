@@ -260,8 +260,8 @@ print(date_now.strftime("%A %d %B %Y at %H:%M:%S")) # Thursday 08 June 2017 at 2
 This project will also allow me to demonstrate the Software Development Life Cycle(SDLC). The Software Development Life cycle is as follows:
 
 - Planning
-- Analysis (Checking Requirements)
-- Design
+- Analysis (Checking Requirements - SSR - Software Specification Requirements)
+- Design (DDR - Design Document Requirements) - Wireframing and UI/UX design
 - Implementation stage (Building according to project requirements)
 - Testing, Deployment and Integrations
 - Maintenance
